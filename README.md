@@ -1,2 +1,0 @@
-# ltcfaucet
-ltcfaucet
